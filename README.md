@@ -97,9 +97,10 @@ This repository contains my solutions and notes for **Lab 0 through Lab 4** of t
 ##  How to Use This Repo
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/<repo-name>.git
-    cd <repo-name>
-    ```
+   git clone https://github.com/kasinath-baiju/qgss-labs.git
+    cd qiskit-summer-camp-2025
+   ```
+    
 2. Install dependencies:
     ```bash
     pip install "qc-grader[qiskit,jupyter] @ git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git"
@@ -112,7 +113,3 @@ This repository contains my solutions and notes for **Lab 0 through Lab 4** of t
 This repository is created for educational purposes as part of the **Qiskit Global Summer School 2025**.
 
 ---
-
-Would you like badges (e.g., Python version, Qiskit version) or a quick "Getting Started" section added to make this even more user-friendly?
-::contentReference[oaicite:0]{index=0}
-````
